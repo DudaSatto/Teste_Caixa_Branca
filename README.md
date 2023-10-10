@@ -20,15 +20,17 @@ Não há um tratamneto claro para o fechamento das conexões com o banco de dado
 5. Variavel ur1 não declarada
 # Grafo
 
+![image](https://github.com/DudaSatto/Teste_Caixa_Branca/assets/115050267/261b093f-92ef-4227-96a0-58e68949f317)
+
 # Calculo
 - Nós = 14
 - Aretas = 16
 - 16-14 = 4 Caminhos Possivel
 # Caminhos 
--
--
--
--
+- 1 = 1;3;4;5;6;7;8;9;10;11;12;
+- 2 = 1;3;4;5;6;7;8;9;10;14;12;
+- 3 = 1;3;4;5;6;7;8;9;10;13;12;
+- 4 = 1;3;4;5;6;7;8;9;10;11;14;12;
 # Tecnologia 
 Linguagem de Programação Java
 # IDE
