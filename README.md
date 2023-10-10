@@ -20,10 +20,7 @@ Não há um tratamneto claro para o fechamento das conexões com o banco de dado
 5. Variavel ur1 não declarada
 # Grafo
 
- 
-
- 
-
+![image](https://github.com/DudaSatto/Teste_Caixa_Branca/assets/115050267/12c5b20c-ad3e-44b5-805a-08c4a367765d)
 
 # Calculo
 - Nós = 14
